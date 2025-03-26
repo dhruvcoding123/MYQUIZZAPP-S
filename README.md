@@ -1,5 +1,5 @@
 # MYQUIZZAPP-S
-Hi, I am attaching the desired results(including the bonus section) in the form of QUIZOUTPUT.pdf , which are the screenshots of the quiz I took on my android phone. 
+Hi, I am attaching the desired results(including the bonus section) in the form of QUIZOUTPUT.pdf , which are the screenshots of the quiz I took on my android phone. PLEASE NOTE THAT MANY folders and subfolders were created , but I have only attached index.tsx file (in the app folder) as that is the only releavant file
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -57,4 +57,4 @@ npx create-expo-app MyQuizApp
 cd MyQuizApp
 npx expo start
 Then a QR code appeared, which I scanned on Expo Go to run the QuizApp
-PLEASE NOTE THAT MANY folders and subfolders were created , but I have only attached index.tsx file as that is only releavant
+

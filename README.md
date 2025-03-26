@@ -50,3 +50,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+STEPS TO RUN AND CREATE THE PROJECT:
+npm install -g expo
+npx expo --version
+npx create-expo-app MyQuizApp
+cd MyQuizApp
+npx expo start
+Then a QR code appeared, which I scanned on Expo Go to run the QuizApp
+PLEASE NOTE THAT MANY folders and subfolders were created , but I have only attached index.tsx file as that is only releavant

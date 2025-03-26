@@ -1,5 +1,5 @@
 # MYQUIZZAPP-S
-Hi, I am attaching the desired results(including the bonus section) in the form of QUIZOUTPUT.pdf , which are the screenshots of the quiz I took on my android phone. PLEASE NOTE THAT MANY folders and subfolders were created , but I have only attached index.tsx file (in the app folder) as that is the only releavant file
+Hi, I am attaching the desired results(including the bonus section) in the form of QUIZOUTPUT.pdf , which are the screenshots of the quiz I took on my android phone. PLEASE NOTE THAT MANY folders and subfolders were created , but I have only attached index.tsx file (in the app folder) as that is the only releavant file. PLEASE NOTE that I ran and played the quiz app multiple times, the answers I selected on page 2 and 3 of the QUIZOUTPUT.pdf , and the result on page 4 are not from the same iteration, hence there's a mismatch
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
